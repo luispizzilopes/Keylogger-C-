@@ -4,9 +4,6 @@
 
 Projeto de um Keylogger na linguagem C# utilizando Console Application desenvolvido com intuito de aprendizado. 
 
-# Tecnologias utilizadas
-- C#
-
 # Imagem do projeto rodando em segundo plano
 ![Keylogger](https://user-images.githubusercontent.com/101680647/217822704-69d8ec90-e545-4d90-b610-4b0702621d48.png)
 
@@ -24,6 +21,11 @@ Passos para utilizar o sistema de login corretamente:
 4- Enquanto o sistema estiver aberto em segundo plano, será registrado no arquivo .txt tudo que for digitado no teclado; 
 
 5- Para finalizar o sistema basta acessar o gerenciador de tarefas e finalizar o processo chamado "ProjetoKeyloggerConsole" nos processos em segundo plano.
+
+
+# Tecnologias utilizadas
+- C#
+
 
 # Autor
 
